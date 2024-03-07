@@ -1,0 +1,5 @@
+
+# Ignorar archivos específicos
+Notebooks/vectors.tsv
+
+Notebooks/words.tsv
