@@ -20,8 +20,6 @@ Este repositorio está dedicado a la implementación y exploración de sistemas 
 
 8. **Bases de Datos Vectoriales**: Uso y aplicación de bases de datos especializadas en el almacenamiento y consulta de datos vectoriales para soportar operaciones de alta eficiencia en la búsqueda semántica.
 
-## Cómo Usar
-
-Para comenzar, clona este repositorio en tu máquina local utilizando:
+## Clonar el repositorio
 
 git clone https://github.com/IgnaCodeIA/B-squeda-Sem-ntica-Vectorial
