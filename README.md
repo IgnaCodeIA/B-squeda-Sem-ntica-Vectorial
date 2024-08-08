@@ -22,4 +22,7 @@ Este repositorio está dedicado a la implementación y exploración de sistemas 
 
 ## Clonar el repositorio
 
+bash
+´´´
 git clone https://github.com/IgnaCodeIA/B-squeda-Sem-ntica-Vectorial
+´´´
